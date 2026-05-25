@@ -1,0 +1,29 @@
+{
+  "name": "it-fullstack",
+  "version": "1.0.0",
+  "description": "Learning Full Stack Course with Aj. Anirach",
+  "main": "hello.js",
+  "scripts": {
+    "format": "prettier --write \"**/*.{js,json}\"",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fonitna/IT-fullstack.git"
+  },
+  "keywords": [],
+  "author": "SSC",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/fonitna/IT-fullstack/issues"
+  },
+  "homepage": "https://github.com/fonitna/IT-fullstack#readme",
+  "devDependencies": {
+    "prettier": "^3.8.3"
+  },
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1"
+  }
+}
